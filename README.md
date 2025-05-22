@@ -10,11 +10,11 @@ This simple Python script converts a distance value from **kilometers (Kms)** to
 
 ## 📁 Files
 
-- `kms_to_miles.py`: Python script that performs the conversion.
+- `kms-to-miles.py`: Python script that performs the conversion.
 
 ## ▶️ How to Run
 
 Make sure you have Python installed. Run the script using:
 
 ```bash
-python kms_to_miles.py
+python kms-to-miles.py
